@@ -18,4 +18,4 @@ I enjoy exploring new tools, improving my problem-solving abilities, and buildin
 - Programming Basics
 
 ## Contact Me
-- LinkedIn: www.linkedin.com/in/doaa-ahmed-elsharawy
+- LinkedIn: https://www.linkedin.com/in/doaa-el-sharawy1/
